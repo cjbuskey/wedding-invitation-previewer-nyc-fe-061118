@@ -19,7 +19,7 @@ body {
 
 #form-template {
   font-size: 25px;
-  font-style: Trebuchet;
+  font-family: Trebuchet;
 }
 
 #invitation {
@@ -28,7 +28,7 @@ body {
   width: 90%;
   margin-left: 40px;
   height: 100%;
-  font-style: Trebuchet;
+  font-family: Trebuchet;
 }
 
 #first-name {
@@ -38,7 +38,7 @@ body {
   height: 100%;
   color: white;
   font-size: 2em;
-  font-style: Trebuchet;
+  font-family: Trebuchet;
 }
 
 #second-name {
@@ -48,7 +48,7 @@ body {
   height: 100%;
   color: white;
   font-size: 2em;
-  font-style: Trebuchet;
+  font-family: Trebuchet;
 }
 
 #last-name {
@@ -58,7 +58,7 @@ body {
   height: 100%;
   color: white;
   font-size: 2em;
-  font-style: Trebuchet;
+  font-family: Trebuchet;
 }
 
 #date {
@@ -68,7 +68,7 @@ body {
   height: 100%;
   color: white;
   font-size: 2em;
-  font-style: Trebuchet;
+  font-family: Trebuchet;
 }
 
 #wedding-location {
@@ -78,6 +78,7 @@ body {
   height: 100%;
   color: white;
   font-size: 2em;
+  font-family: Trebuchet;
 }
 
 .buttons {
@@ -92,6 +93,7 @@ body {
   font-size: 25px;
   border: none;
   text-align: center;
+  font-family: Trebuchet;
 }
 
 #Spring {
@@ -100,6 +102,7 @@ body {
   font-size: 25px;
   border: none;
   text-align: center;
+  font-family: Trebuchet;
 }
 
 #Art-Deco {
@@ -108,4 +111,5 @@ body {
   font-size: 25px;
   border: none;
   text-align: center;
+  font-family: Trebuchet;
 }
