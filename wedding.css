@@ -1,0 +1,111 @@
+body {
+  background: black;
+  color: white;
+}
+
+#headline {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.grid-container {
+  display: grid;
+  grid-template: 1fr / 1fr 1fr;
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#form-template {
+  font-size: 25px;
+  font-style: Trebuchet;
+}
+
+#invitation {
+  margin-top: 40px;
+  background: linear-gradient(to bottom right, blue, #24dfe2);
+  width: 90%;
+  margin-left: 40px;
+  height: 100%;
+  font-style: Trebuchet;
+}
+
+#first-name {
+  border: white solid 5px;
+  background: black;
+  width: 40%;
+  height: 100%;
+  color: white;
+  font-size: 2em;
+  font-style: Trebuchet;
+}
+
+#second-name {
+  border: white solid 5px;
+  background: black;
+  width: 40%;
+  height: 100%;
+  color: white;
+  font-size: 2em;
+  font-style: Trebuchet;
+}
+
+#last-name {
+  border: white solid 5px;
+  background: black;
+  width: 40%;
+  height: 100%;
+  color: white;
+  font-size: 2em;
+  font-style: Trebuchet;
+}
+
+#date {
+  border: white solid 5px;
+  background: black;
+  width: 40%;
+  height: 100%;
+  color: white;
+  font-size: 2em;
+  font-style: Trebuchet;
+}
+
+#wedding-location {
+  border: white solid 5px;
+  background: black;
+  width: 40%;
+  height: 100%;
+  color: white;
+  font-size: 2em;
+}
+
+.buttons {
+  border-bottom: white solid 2px;
+  padding-bottom: 10px;
+  margin-top: 40px;
+}
+
+#Formal {
+  background-color: black;
+  color: white;
+  font-size: 25px;
+  border: none;
+  text-align: center;
+}
+
+#Spring {
+  background-color: black;
+  color: white;
+  font-size: 25px;
+  border: none;
+  text-align: center;
+}
+
+#Art-Deco {
+  background-color: black;
+  color: white;
+  font-size: 25px;
+  border: none;
+  text-align: center;
+}
